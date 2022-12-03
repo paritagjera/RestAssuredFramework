@@ -1,0 +1,2 @@
+cd C:\SeleniumWorkspace\ResrAssuredFramework
+mvn clean install
